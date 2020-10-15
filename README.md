@@ -6,10 +6,10 @@ Config for Udagram project
 
 There are four GitHib repos.  One for each microservice, one for a reverse proxy, and one for the front end.  Each repo containa Travis CI yaml file.
 
-https://github.com/herniated/udacity-c3-restapi-user
-https://github.com/herniated/udacity-c3-restapi-feed
-https://github.com/herniated/udacity-c3-reverseproxy
-https://github.com/herniated/udacity-c3-frontend
+* https://github.com/herniated/udacity-c3-restapi-user
+* https://github.com/herniated/udacity-c3-restapi-feed
+* https://github.com/herniated/udacity-c3-reverseproxy
+* https://github.com/herniated/udacity-c3-frontend
 
 # Dependencies
 
@@ -25,10 +25,10 @@ Instructions to install the microservices manually in a local environment are in
 
 # Docker Hub Images
 
-https://hub.docker.com/repository/docker/herniated/udacity-c3-restapi-user
-https://hub.docker.com/repository/docker/herniated/udacity-c3-restapi-feed
-https://hub.docker.com/repository/docker/herniated/udacity-c3-reverseproxy
-https://hub.docker.com/repository/docker/herniated/udacity-c3-frontend
+* https://hub.docker.com/repository/docker/herniated/udacity-c3-restapi-user
+* https://hub.docker.com/repository/docker/herniated/udacity-c3-restapi-feed
+* https://hub.docker.com/repository/docker/herniated/udacity-c3-reverseproxy
+* https://hub.docker.com/repository/docker/herniated/udacity-c3-frontend
 
 # Kubernetes Configuration
 
