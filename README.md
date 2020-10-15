@@ -4,7 +4,7 @@ Config for Udagram project
 
 # GitHub Repos & Travis CI
 
-There are four GitHib repos.  One for each microservice, one for a reverse proxy, and one for the front end.  Each repo containa Travis CI yaml file.
+There are four GitHib repos.  One for each microservice, one for a reverse proxy, and one for the front end.  Each repo contains a Travis CI yaml file.
 
 * https://github.com/herniated/udacity-c3-restapi-user
 * https://github.com/herniated/udacity-c3-restapi-feed
